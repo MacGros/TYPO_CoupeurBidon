@@ -1,7 +1,7 @@
-# TYPO_CoupeurRounded
+# TYPO_Coupeur-Bidon
 
-Coupeur Rounded est un fork des typographies Coupeur Lewis Medium et Coupeur Lewis Semibold.
-A partir de ces deux graisses, c'est une fonte légèrement plus contrastée et dynamique que les orginelles. A cela s'ajoute l'abbatement de la plupart des angles pour se transformer en arrondis d'où le nom 'Rounded'
+Coupeur Bidon est un fork des typographies Coupeur Lewis Medium et Coupeur Lewis Semibold.
+A partir de ces deux graisses, c'est une fonte légèrement plus contrastée et dynamique que les orginelles. Les angles intérieurs sont légèrement arrondis, les panses plus amples ce qui donne un caractère gentiment bedonnant à certaines lettres. D'où le nom 'Coupeur-Bidon' de ce fork qui ajoute un léger swing à Cooper Hewitt.
 
 Les auteurs de ce fork sont Antoine Gros et Gil Ndjouwou, étudiant en architecture et graphiste freelance.
 
